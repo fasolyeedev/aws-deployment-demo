@@ -1,0 +1,20 @@
+p{
+    color: white;
+}
+img{
+    max-width: 400px;
+    max-height: 400px;
+}
+.ough{
+    font-size: large;
+    font-weight: 800;
+    text-decoration-line: underline;
+}
+h1{
+    font-size: larger;
+    color:white
+}
+.Box{
+    color:aliceblue;
+    font-size: large;
+}
